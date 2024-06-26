@@ -1,1 +1,1 @@
-# Copa-America-Sofascore-Web-Scraper
+# Copa-America-Teams-Sofascore-Web-Scraper
