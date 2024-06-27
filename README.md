@@ -1,4 +1,4 @@
-# Copa-America-Teams-Sofascore-Web-Scraper
+# Copa-America-Teams-Web-Scraper
 The **objective** of the project was to scrape information from a recognized soccer stats [webpage](https://www.sofascore.com/) and write it in a CSV format. he data scraped focuses on the 2024 Copa America teams and their top players. <br>
 The project is divided into two different files:
 1. web_scrapper_overall.ipynb
